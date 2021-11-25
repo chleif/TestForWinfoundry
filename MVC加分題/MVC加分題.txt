@@ -1,0 +1,15 @@
+Question 1
+What is the difference between session, tempdata, viewdata, and viewbag?
+
+Session可以算是儲存資料的位置，存放於Server端，通常可以拿來進行token存放。(通常會合存放在Client端的cookies作比較)
+
+tempdata、viewdata及viewbag都是MVC的controller/acrion傳遞資料給view的方式，
+其中tempdata可以進行跨controller/action的資料傳遞，
+而viewdata及viewbag則會在網頁轉跳(切換至不同action)時消失。
+viewdata及viewbag最大的差異則在於型別的不同。
+
+
+
+***********************************************
+Question 2
+What are the different types of action filters?

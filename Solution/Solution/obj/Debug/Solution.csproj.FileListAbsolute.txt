@@ -1,0 +1,7 @@
+D:\TestForWinfoundry\Solution\Solution\bin\Debug\Solution.exe.config
+D:\TestForWinfoundry\Solution\Solution\bin\Debug\Solution.exe
+D:\TestForWinfoundry\Solution\Solution\bin\Debug\Solution.pdb
+D:\TestForWinfoundry\Solution\Solution\obj\Debug\Solution.csproj.AssemblyReference.cache
+D:\TestForWinfoundry\Solution\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+D:\TestForWinfoundry\Solution\Solution\obj\Debug\Solution.exe
+D:\TestForWinfoundry\Solution\Solution\obj\Debug\Solution.pdb
